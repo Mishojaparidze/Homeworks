@@ -6,7 +6,9 @@ namespace Homework10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           DerivedClass derivedClass = new DerivedClass();
+            Console.WriteLine(derivedClass);
+
         }
     }
 }
