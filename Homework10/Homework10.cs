@@ -6,9 +6,20 @@ namespace Homework10
     {
         static void Main(string[] args)
         {
-           DerivedClass derivedClass = new DerivedClass();
-            Console.WriteLine(derivedClass);
+            #region Solution N1
+            DerivedClass derivedClass = new DerivedClass();
+            derivedClass.Read();
+            derivedClass.Write();
+            derivedClass.Edit();
+            derivedClass.Delete();
+            #endregion
 
+            #region Solution N2 
+
+
+
+
+            #endregion
         }
     }
 }

@@ -9,22 +9,34 @@ namespace Homework10
     public abstract class FileWorker
     {
         public string MaximumSize { get; set; }
-        abstract public string MaximumSizeType { get; set; }
-        public virtual void Read(string read)
+        public abstract string MaximumSizeType { get; set; }
+        public virtual void Read()
         {
-            Console.WriteLine(read);
+            Console.WriteLine(MaximumSize, MaximumSizeType);
         }
-        public virtual void Write(string write)
+        public virtual void Write()
         {
-            Console.WriteLine(write);
+            Console.WriteLine(MaximumSize, MaximumSizeType);
+
         }
-        public virtual void Edit(string edit)
+        public virtual void Edit()
         {
-            Console.WriteLine(edit);
+            Console.WriteLine(MaximumSize, MaximumSizeType);
+
         }
-        public virtual void Delete(string delete)
+        public virtual void Delete()
         {
-            Console.WriteLine(delete);
+             Console.WriteLine(MaximumSize, MaximumSizeType);
+
         }
+
+
+
+
+
+
+
+
+
     }
 }
