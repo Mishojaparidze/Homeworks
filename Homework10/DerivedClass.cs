@@ -9,7 +9,7 @@ namespace Homework10
     internal class DerivedClass : FileWorker
     {
         string maxSizeType = "txt";
-        string MaximumSize="128";
+        string MaximumSize = "128";
         public override string MaximumSizeType { 
             
             get { return maxSizeType; }
