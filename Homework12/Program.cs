@@ -1,12 +1,15 @@
 ﻿using System;
+using static Homework12.Concrete;
 
 namespace Homework12
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Client client = new Client(new ArtDecoFactory());
+            client.Run();
         }
     }
 }
