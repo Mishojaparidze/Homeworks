@@ -8,8 +8,12 @@ namespace Homework12
 
         static void Main(string[] args)
         {
-            Client client = new Client(new ArtDecoFactory());
-            client.Run();
+            Client client1 = new Client(new ArtDecoFactory());
+            client1.Run();
+            Client client2 = new Client(new VictorianFactory());
+            client2.Run();
+            Client client3 = new Client(new ModernFactory());
+            client3.Run();
         }
     }
 }
