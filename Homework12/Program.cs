@@ -32,6 +32,11 @@ namespace Homework12
 
             #region SolutionFacade
             Console.WriteLine("SolutionFacade");
+            Facade facade = new Facade();
+            Console.WriteLine("HTML");
+            facade.OperationA();
+            Console.WriteLine("PDF");
+            facade.OperationB();
             #endregion
         }
     }
