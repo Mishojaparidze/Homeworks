@@ -18,7 +18,7 @@ namespace Homework12
         {
             public override void Request()
             {
-                Console.WriteLine("play in movie");
+                Console.WriteLine("Real actor plays in movie");
             }
         }
         public class Stuntman : RealMovie
@@ -29,11 +29,11 @@ namespace Homework12
             {
                 Random random = new Random();
                 var x=random.Next(0,101);
-                if (x>25)
+                if (x>20) // if x <=20 it throws an error :/
                     realActor = new RealActor();
                realActor.Request();
 
-                Console.WriteLine("now you play in the movie");
+                Console.WriteLine("now StuntMan! You play in the movie");
             }
         }
 
