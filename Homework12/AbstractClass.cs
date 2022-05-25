@@ -10,8 +10,13 @@ namespace Homework12
     {
 			public abstract class AbstractStyle
 			{
+<<<<<<< HEAD
 				public abstract void Interact(AbstractFurniture furniture);
 			}
+=======
+			public abstract void Interact(AbstractFurniture furniture);
+		}
+>>>>>>> 9b64764ce8c249ff3d5cf1a35ffdaac5a5ff845c
 
 			public abstract class AbstractFurniture {}
 

@@ -21,12 +21,22 @@ namespace Homework12
 
             #region SolutionProxy
             Console.WriteLine("SolutionProxy");
+<<<<<<< HEAD
 
             RealMovie movie1 = new Stuntman();
             movie1.Request();
 
             RealActor actor = new RealActor();
             actor.Request();
+=======
+            RealMovie movie1 = new Stuntman();
+            movie1.Request();
+
+
+            RealActor actor = new RealActor();
+            actor.Request();
+
+>>>>>>> 9b64764ce8c249ff3d5cf1a35ffdaac5a5ff845c
             #endregion
 
             #region SolutionFacade
