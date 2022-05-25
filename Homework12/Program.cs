@@ -22,6 +22,7 @@ namespace Homework12
             #region SolutionProxy
             Console.WriteLine("SolutionProxy");
 <<<<<<< HEAD
+<<<<<<< HEAD
 
             RealMovie movie1 = new Stuntman();
             movie1.Request();
@@ -29,6 +30,8 @@ namespace Homework12
             RealActor actor = new RealActor();
             actor.Request();
 =======
+=======
+>>>>>>> 9b64764ce8c249ff3d5cf1a35ffdaac5a5ff845c
             RealMovie movie1 = new Stuntman();
             movie1.Request();
 
@@ -36,6 +39,9 @@ namespace Homework12
             RealActor actor = new RealActor();
             actor.Request();
 
+<<<<<<< HEAD
+>>>>>>> 9b64764ce8c249ff3d5cf1a35ffdaac5a5ff845c
+=======
 >>>>>>> 9b64764ce8c249ff3d5cf1a35ffdaac5a5ff845c
             #endregion
 

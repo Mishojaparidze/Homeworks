@@ -146,6 +146,13 @@ namespace Homework11
             doc.Save(xmlFile2);
 
         }
+
+
+        static void ceaserCipher()
+        {
+            
+            var cipher = Console.ReadLine();
+        }
         static void Main(string[] args)
         {
             
