@@ -148,41 +148,42 @@ namespace Homework11
         }
         static void Main(string[] args)
         {
-            #region SolutionN1
-            Console.WriteLine("Solution-N1");
-            getAndSaveWordsInFile();
+            
+                #region SolutionN1
+                Console.WriteLine("Solution-N1");
+                getAndSaveWordsInFile();
 
-            #endregion
+                #endregion
 
-            #region SolutionN2
-            Console.WriteLine("Solution-N2");
+                #region SolutionN2
+                Console.WriteLine("Solution-N2");
 
-            Console.WriteLine("Enter your number : ");
+                Console.WriteLine("Enter your number : ");
 
-            multiplicationTable();
+                multiplicationTable();
 
-            #endregion
+                #endregion
 
-            #region SolutionN3
+                #region SolutionN3
 
-            Console.WriteLine("Solution-N3");
-            xmlFileNode();
-            #endregion
+                Console.WriteLine("Solution-N3");
+                xmlFileNode();
+                #endregion
 
-            #region SolutionN4
-            countingDaysToBirthday();
-            #endregion
+                #region SolutionN4
+                countingDaysToBirthday();
+                #endregion
 
-            #region SolutionN5
-
-
+                #region SolutionN5
 
 
-            #endregion
 
-            #region SolutionN6
-            workingWithFiles();
-            #endregion
+
+                #endregion
+
+                #region SolutionN6
+                workingWithFiles();
+                #endregion
         }
     }
 }
