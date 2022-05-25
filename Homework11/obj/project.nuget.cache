@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mQnOeZj7EWbgiZ7D3Y/4z8T6utyplYSOmbbCoF+emR0pSBI1d1Bgj23/E2ureLQgN1cZzCW2W+lqRdKab8yykg==",
+  "dgSpecHash": "b3FbYa6DR0lydLNWQ9Z3OnhQTweNzXjFxUcfCGcBjZv8pFunuRX4YG4cwqKv0P3zFbRUkegu8IkVeFYZWYAM1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\misho\\source\\repos\\Homeworks\\Homework11\\Homework11.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\misho\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
