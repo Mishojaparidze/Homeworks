@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homeworks", "Homeworks.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework10", "Homework10\Homework10.csproj", "{06C84982-D75D-4BEB-920E-AE5EE678A055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework11", "Homework11\Homework11.csproj", "{4D79E6A7-7D75-48E2-A5AD-22768CB9FE5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework11", "Homework11\Homework11.csproj", "{4D79E6A7-7D75-48E2-A5AD-22768CB9FE5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "..\test\test.csproj", "{9DE6CBE5-4724-4585-947A-4552151FBCD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework12", "Homework12\Homework12.csproj", "{30DA03EB-06AE-4962-A185-B4A944595297}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework12", "Homework12\Homework12.csproj", "{30DA03EB-06AE-4962-A185-B4A944595297}"
 EndProject
@@ -29,10 +33,23 @@ Global
 		{4D79E6A7-7D75-48E2-A5AD-22768CB9FE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D79E6A7-7D75-48E2-A5AD-22768CB9FE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D79E6A7-7D75-48E2-A5AD-22768CB9FE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+<<<<<<< HEAD
+		{9DE6CBE5-4724-4585-947A-4552151FBCD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE6CBE5-4724-4585-947A-4552151FBCD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE6CBE5-4724-4585-947A-4552151FBCD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE6CBE5-4724-4585-947A-4552151FBCD1}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+=======
+>>>>>>> 9b64764ce8c249ff3d5cf1a35ffdaac5a5ff845c
 		{30DA03EB-06AE-4962-A185-B4A944595297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{30DA03EB-06AE-4962-A185-B4A944595297}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30DA03EB-06AE-4962-A185-B4A944595297}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30DA03EB-06AE-4962-A185-B4A944595297}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+>>>>>>> 9b64764ce8c249ff3d5cf1a35ffdaac5a5ff845c
+=======
+>>>>>>> 9b64764ce8c249ff3d5cf1a35ffdaac5a5ff845c
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
