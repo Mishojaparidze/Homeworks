@@ -146,13 +146,50 @@ namespace Homework11
             doc.Save(xmlFile2);
 
         }
+        public static char cipher(char ch, int key)
+            {
+                if (!char.IsLetter(ch))
+                {
+
+                    return ch;
+                }
+
+                char d = char.IsUpper(ch) ? 'A' : 'a';
+                return (char)((((ch + key) - d) % 26) + d);
 
 
-        static void ceaserCipher()
+            }
+        public static string Encipher(string input, int key)
         {
-            
-            var cipher = Console.ReadLine();
+                string output = string.Empty;
+
+                foreach (char ch in input)
+                    output += cipher(ch, key);
+
+                return output;
         }
+
+        public static string Decipher(string input, int key)
+        {
+                return Encipher(input, 26 - key);
+        }
+
+
+        public static void CeasarCipher() 
+        {
+            StreamReader r = new StreamReader(@"C:\Users\misho\source\repos\Homeworks\Homework11\jsconfig1.json");
+            string jsonString = r.ReadToEnd();
+            Myclass m = JsonConvert.DeserializeObject<Myclass>(jsonString);
+            string UserString = m.key1;
+            int key = Convert.ToInt32(m.key2);
+            
+            
+            Console.WriteLine("\n");
+            Console.WriteLine("Encrypted Data");
+            string cipherText = Encipher(UserString, key);
+            Console.WriteLine(cipherText);
+        }
+
         static void Main(string[] args)
         {
             
@@ -179,11 +216,11 @@ namespace Homework11
 
                 #region SolutionN4
                 countingDaysToBirthday();
-                #endregion
+            #endregion
 
                 #region SolutionN5
 
-
+                CeasarCipher();
 
 
                 #endregion
