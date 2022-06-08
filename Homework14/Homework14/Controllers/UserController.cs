@@ -27,9 +27,6 @@ namespace Homework14.Controllers
 			return Ok(userrList);	
 		}
 
-
-
-
 		[HttpGet("get")]
 		public IActionResult GetUser()
 		{
