@@ -1,0 +1,12 @@
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\bin\Debug\net5.0\Homework17_ORM.Domain.deps.json
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\bin\Debug\net5.0\Homework17_ORM.Domain.dll
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\bin\Debug\net5.0\Homework17_ORM.Domain.pdb
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\obj\Debug\net5.0\Homework17_ORM.Domain.csproj.AssemblyReference.cache
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\obj\Debug\net5.0\Homework17_ORM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\obj\Debug\net5.0\Homework17_ORM.Domain.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\obj\Debug\net5.0\Homework17_ORM.Domain.AssemblyInfo.cs
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\obj\Debug\net5.0\Homework17_ORM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\obj\Debug\net5.0\Homework17_ORM.Domain.dll
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\obj\Debug\net5.0\refint\Homework17_ORM.Domain.dll
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\obj\Debug\net5.0\Homework17_ORM.Domain.pdb
+C:\Users\misho\source\repos\Homeworks\Homework17\Homework17\Homework17_ORM.Domain\obj\Debug\net5.0\ref\Homework17_ORM.Domain.dll

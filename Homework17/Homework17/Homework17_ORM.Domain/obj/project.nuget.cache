@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/ptDgdz8gsd0cxxCDUP0Y/pq+owho2HkbMk38sgumBtnnZaPY/wEee3Yv8X7mCmvgsvWwmDbMHQsv1XJpxkdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\misho\\source\\repos\\Homeworks\\Homework17\\Homework17\\Homework17_ORM.Domain\\Homework17_ORM.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
